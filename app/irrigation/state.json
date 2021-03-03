@@ -1,0 +1,1 @@
+{"_default": {"1": {"zones": {"4": {"irrigating": false, "lastRun": "2021-03-02 11:58:52.594994"}}, "waterSources": {"6": {"irrigating": false}}, "sensors": {"8": {"reading": 99.8076923076923, "currentStatus": "overUpperAlertBound"}, "8": {"reading": 100, "currentStatus": "overUpperAlertBound"}}}}}
